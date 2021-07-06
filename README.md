@@ -1,5 +1,5 @@
-# supermall
-
+# supermall-zqw
+仿蘑菇街商城Vue项目
 ## Project setup
 ```
 npm install
@@ -25,5 +25,5 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 致谢:
+coderwhy提供项目。项目真实接口请联系coderwhy。
